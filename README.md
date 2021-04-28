@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YuvalOfek1
+- 👀 I’m interested in Python and HTML
+- 🌱 I’m currently learning Bachelor degree in Computer Science
