@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @YuvalOfek1
-- 👀 I’m interested in Python and HTML
-- 🌱 I’m currently learning Bachelor degree in Computer Science
+- 👀 I’m interested in C, C++,Python
+- 🌱 Currently, I study for an undergraduate degree in Computer Science.
+- 
