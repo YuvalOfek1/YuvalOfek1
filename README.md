@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @YuvalOfek1
 - 👀 I’m interested in C, C++,Python
 - 🌱 Currently, I study for an undergraduate degree in Computer Science.
-- 
