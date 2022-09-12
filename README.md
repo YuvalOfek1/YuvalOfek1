@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YuvalOfek1
-- 👀 I’m interested in C, C++, Python. Web: HTML5, CSS3, Bootstrap, JavaScript. Mobile: Flutter -  Dart.
+- 👀 **I’m interested in** C, C++, Python. **Web**: HTML5, CSS3, Bootstrap, JavaScript. **Mobile**: Flutter -  Dart.
 - 🌱 Currently, I study for a Bachelor degree in Computer Science.
