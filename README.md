@@ -9,6 +9,14 @@
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 🍺 &nbsp; I brew my own beers
 
+<h3>✍️ Projects </h3>
+- [BookScrabble Project](https://github.com/BookScrabbleProject/Main#book-scrabble-game) - a full year project in Java and JavaFX, multithreaded code, cache management algorithms etc...
+- [DeliveryApp](https://github.com/orgs/ColmanDevClub-DeliveryApp/repositories) - a 3 months DeliveryApp project using MERN stack.
+- [Memory Card Game](https://github.com/YuvalOfek1/MemoryGame) - using HTML, JS, CSS.
+- [Simon Game](https://yuvalofek1.github.io/Simon-Game/) - using JavaScript
+- [HangMan game](https://github.com/YuvalOfek1/HangMan) - using C++.
+
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C | Python  
