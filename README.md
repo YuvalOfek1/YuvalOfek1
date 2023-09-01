@@ -11,7 +11,7 @@
 
 <h3>✍️ Projects </h3>
 - &nbsp; <a href="https://github.com/BookScrabbleProject/Main#book-scrabble-game"> BookScrabble Project</a> - A full year project in Java and JavaFX, multithreaded code, cache management algorithms etc...<br>
-- &nbsp; <a href="[https://github.com/orgs/ColmanDevClub-DeliveryApp/repositories](https://github.com/orgs/ColmanWebApp/repositories)"> Moozika </a> - A Music Store Web App - using Auth, Sockets, Meta and Google API's and more<br>
+- &nbsp; <a href="https://github.com/orgs/ColmanWebApp/repositories"> Moozika </a> - A Music Store Web App - using Auth, Sockets, Meta and Google API's and more<br>
 - &nbsp; <a href="https://github.com/orgs/ColmanDevClub-DeliveryApp/repositories"> DeliveryApp </a> - A 3 months DeliveryApp project using MERN stack.<br>
 - &nbsp; <a href= "https://yuvalofek1.github.io/MemoryGame/">Memory Card Game</a> - Using HTML, JS, CSS.<br>
 - &nbsp; <a href="https://yuvalofek1.github.io/Simon-Game/">Simon Game</a> - Using JavaScript<br>
